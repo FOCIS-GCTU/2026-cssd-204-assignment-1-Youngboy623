@@ -2,37 +2,58 @@
 # Description: Print out my initials in stylized large letters.
 # Assignment Number: 1
 #
-# Name: Clifford Banangsana
-# STUDENT ID: 2425401432
-# Email: 2425401432@live.gctu.edu.gh
+# Name: Plange Aaron Nester
+# STUDENT ID:  2425401091
+# Email: 2425401091@live.gctu.edu.gh
 # Grader: Augustus
 #
-# On my honor,Clifford Banangsana , this programming
-# assignment is my own work
+# On my honor, Plange Aaron Nester, this programming assignment is my own work
 # and I have not provided this code to any other student.
 
 
-
 def main():
+    # Print my initials (PAN) in stylized large block letters
 
-    print()
+    print("")
+    print("...PAN")
+    print("")
 
-    print("...MCB")
+    # Large P block
+    print("...PPPPPPPPPPPP****.........................................")
+    print("...P         P****.........................................")
+    print("...P         P****.........................................")
+    print("...P         P****.........................................")
+    print("...PPPPPPPPPPPP****.........................................")
+    print("...P         ****.........................................")
+    print("...P         ****.........................................")
+    print("...P         ****.........................................")
+    print("...P         ****.........................................")
+    print("...P         ****.........................................")
 
-    print()
+    # Large A block
+    print("...AAAAAAAAAAAA****.........................................")
+    print("...A          A****.........................................")
+    print("...A          A****.........................................")
+    print("...AAAAAAAAAAAA****.........................................")
+    print("...A          A****.........................................")
+    print("...A          A****.........................................")
+    print("...A          A****.........................................")
+    print("...A          A****.........................................")
+    print("...A          A****.........................................")
+    print("...A          A****.........................................")
 
-    print("...MMMM....MMMM............CCCCCCCC........BBBBBBBBBB.......")
-    print("...MMMM....MMMM..........CC................BB........BB.....")
-    print("...MM.MM..MM.MM........CC..................BB........BB.....")
-    print("...MM.MM..MM.MM........CC..................BB........BB.....")
-    print("...MM.MM..MM.MM........CC..................BBBBBBBBBB.......")
-    print("...MM..MMMM..MM........CC..................BB........BB.....")
-    print("...MM..MMMM..MM........CC..................BB........BB.....")
-    print("...MM...MM...MM........CC..................BB........BB.....")
-    print("...MM...MM...MM...**.....CC...........**...BB........BB...**")
-    print("...MM...MM...MM...**.......CCCCCCCC...**...BBBBBBBBBB.....**")
+    # Large N block
+    print("...NNNNNNNNNNNN****.........................................")
+    print("...N          N****.........................................")
+    print("...NN         N****.........................................")
+    print("...N N        N****.........................................")
+    print("...N  N       N****.........................................")
+    print("...N   N      N****.........................................")
+    print("...N    N     N****.........................................")
+    print("...N     N    N****.........................................")
+    print("...N      N   N****.........................................")
+    print("...N       N  N****.........................................")
 
-    print()
 
-
-main()
+if __name__ == "__main__":
+    main()
